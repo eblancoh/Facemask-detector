@@ -1,7 +1,7 @@
 # Detector de mascarillas en el rostro
 
 <p align="center">
-<img width="500" src=astronomia.png>
+<img width="600" src=astronomia.png>
 </p>
 
 En esta sencilla prueba de concepto creamos un detector de máscara facial que nos proteja del COVID-19 con OpenCV, Keras/TensorFlow y Deep Learning.
@@ -27,6 +27,10 @@ En total, el conjunto de datos consta de **1.442 imágenes** que pertenecen a do
 
 * **Con máscara**: 723 imágenes
 * **Sin máscara**: 719 imágenes
+
+<p align="center">
+<img width="600" src=sprite.jpg>
+</p>
 
 Este método es en realidad mucho más fácil de lo que parece una vez que aplica puntos de referencia faciales al problema.
 
